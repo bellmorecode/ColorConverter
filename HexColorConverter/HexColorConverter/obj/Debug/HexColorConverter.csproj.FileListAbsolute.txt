@@ -1,0 +1,6 @@
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\bin\Debug\HexColorConverter.exe.config
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\bin\Debug\HexColorConverter.exe
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\bin\Debug\HexColorConverter.pdb
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\obj\Debug\HexColorConverter.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\obj\Debug\HexColorConverter.exe
+C:\Users\Glenn\Desktop\HexColorConverter\HexColorConverter\obj\Debug\HexColorConverter.pdb
